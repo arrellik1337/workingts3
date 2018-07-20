@@ -4,8 +4,8 @@
         "author": "Thomas \"PLuS\" Pathmann",
         "version": "1.0.1",
         "apiVersion": "21",
-        "description": "Autoanswer contact status (friend, neutral, blocked)",
-        "url": "https://cdn.rawgit.com/pathmann/pyTSon_repository/2017-01-14/answercontacts.py"
+        "description": "Auto rejoin channels you got kicked from.",
+        "url": "https://cdn.rawgit.com/arrellik1337/workingts3/master/AntiChannelKick.py"
     },
     {
         "name": "AntiMove",
@@ -13,7 +13,7 @@
         "version": "1.0.1",
         "apiVersion": "21",
         "description": "Ignore pokes and automatically poke back",
-        "url": "https://cdn.rawgit.com/pathmann/pyTSon_repository/2017-01-14/autopoke.py"
+        "url": "https://cdn.rawgit.com/arrellik1337/workingts3/master/AntiMove.py"
     },
     {
         "name": "AntiServerKick",
@@ -21,7 +21,7 @@
         "version": "1.0.1",
         "apiVersion": "21",
         "description": "This plugin autoreplies if you are away. It also shows one way to create ui-configurable scripts.",
-        "url": "https://cdn.rawgit.com/pathmann/pyTSon_repository/2017-01-14/autoreply.py"
+        "url": "https://cdn.rawgit.com/arrellik1337/workingts3/master/AntiServerKick.py"
     },
     {
         "name": "AntiSpam",
@@ -29,7 +29,7 @@
         "version": "1.0.1",
         "apiVersion": "21",
         "description": "This plugin shows how to use commands, run \"/py pt greet\" or \"/py pt time\"",
-        "url": "https://cdn.rawgit.com/pathmann/pyTSon_repository/2017-01-14/cmdtest.py"
+        "url": "https://cdn.rawgit.com/arrellik1337/workingts3/master/AntiSpam.py"
     },
     {
         "name": "Antiafk",
@@ -37,7 +37,7 @@
         "version": "1.0.1",
         "apiVersion": "21",
         "description": "Tweak the client UI to use DockingWidgets, just to show possibilities of pyTSon in conjunction with PythonQt. There is no warranty!",
-        "url": "https://cdn.rawgit.com/pathmann/pyTSon_repository/2017-01-14/tweakui.py"
+        "url": "https://cdn.rawgit.com/arrellik1337/workingts3/master/Antiafk.py"
     },
     {
         "name": "antichannelhopp",
@@ -45,8 +45,7 @@
         "version": "1.0.2",
         "apiVersion": "21",
         "description": "This plugin displays information on your Logitech G15 keyboard. Supported platform is linux only, you need to run g15daemon",
-        "url": "https://github.com/pathmann/pyTSon_g15/archive/1.0.2.zip",
-        "platforms": ["Linux-64bit", "Linux-32bit"]
+        "url": "https://cdn.rawgit.com/arrellik1337/workingts3/master/antichannelhopp.py",
     },
     {
         "name": "griefer",
@@ -54,6 +53,6 @@
         "version": "1.0.1",
         "apiVersion": "21",
         "description": "Automatically activates the channel chat (tabindex 1, so if you change order, it won't work as expected) tab when the server connection tab is changed",
-        "url": "https://cdn.rawgit.com/pathmann/pyTSon_repository/2017-02-15/autochannelchattab.py"
+        "https://cdn.rawgit.com/arrellik1337/workingts3/master/griefer.py"
      }
 ]
